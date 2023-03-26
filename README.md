@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asukhala
 - 👀 I’m interested in ... sports and movies
-- 🌱 I’m currently upskilling myself ...Excel,SQL, Power BI
+- 🌱 I’m currently upskilling myself ...Excel,SQL, Power BI, Python, Machine Learning
 - 💞️ I’m looking to collaborate on ... business analytics is my desired field to make my career
 - 📫 How to reach me ... amandeepsukhala on instagram
 
